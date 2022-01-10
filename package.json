@@ -1,5 +1,5 @@
 {
-  "name": "photo-gallery",
+  "name": "dragndrop",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -15,11 +15,15 @@
     "@capacitor/haptics": "1.1.2",
     "@capacitor/keyboard": "1.1.2",
     "@capacitor/status-bar": "1.0.5",
+    "@ionic-native/firebase": "^5.36.0",
     "@ionic/vue": "^5.4.0",
     "@ionic/vue-router": "^5.4.0",
+    "@stencil/core": "2.9.0",
     "core-js": "^3.6.5",
+    "firebase": "^9.2.0",
     "vue": "^3.2.1",
-    "vue-router": "^4.0.0-0"
+    "vue-router": "^4.0.0-0",
+    "vuedraggable": "^2.24.3"
   },
   "devDependencies": {
     "@capacitor/cli": "3.2.5",
